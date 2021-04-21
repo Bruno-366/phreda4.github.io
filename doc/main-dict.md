@@ -1,4 +1,4 @@
-# Main Dicctionary.
+# Main Dictionary.
 
 The Language start with this words defined, in top of this you can define new word until you program is done.
 
