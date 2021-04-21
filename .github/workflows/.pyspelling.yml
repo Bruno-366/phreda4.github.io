@@ -1,8 +1,0 @@
-matrix:
-- name: Markdown Source
-  aspell:
-    lang: en
-    d: en_US
-  sources:
-  - doc/*.md
-  - *.md
